@@ -3,6 +3,8 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
+# L'atelier des peluches
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+ <a href="/boutique.html" class="bouton">Accéder à la boutique</a>
+
+Découvrez ma collection de peluches : chiens, chats, lapins, nounours, abeilles, etc. Chaque peluche est créée avec amour et soin pour vous offrir une expérience unique. 
