@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-order: 4
+order: 2
 in_menu: true
 ---
