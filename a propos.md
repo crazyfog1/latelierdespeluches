@@ -1,6 +1,5 @@
 ---
 title: "À propos"
-order: 5
+order: 3
 in_menu: true
 ---
- 
