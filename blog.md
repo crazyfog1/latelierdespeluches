@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Articles
-permalink: /articles/
+title: "Articles"
+order: 2
+in_menu: true
 blog_index: true
 ---
 <aside>
