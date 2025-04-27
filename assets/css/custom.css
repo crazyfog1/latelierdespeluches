@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #8F0094;
 }
+p:has(> img) {
+    display: flex;
+    justify-content: center;
+}
