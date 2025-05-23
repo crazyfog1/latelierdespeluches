@@ -23,9 +23,12 @@ Dans cette section, vous trouverez mes créations uniques de peluches. Chacune e
 
 <a href="https://crazyfog1.github.io/latelierdespeluches/commandes%20personnalisees.html" class="bouton">Découvrir</a>
 
-**aperçu de la boutique ?**
+## Avis des clients
 
-**avis des clients ?**
+![](https://files.saty.re/peluches/avis/avis1.png)
+
+![](https://files.saty.re/peluches/avis/avis2.png)
+
 
 ## La qualité au rendez-vous
 J'offre une livraison rapide et fiable pour toutes mes peluches. Votre commande sera expédiée au plus vite et vous la recevrez chez vous en quelques jours seulement.
