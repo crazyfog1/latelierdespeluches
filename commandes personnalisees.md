@@ -5,31 +5,20 @@ in_menu: true
 ---
 ## Mes créations uniques
 
+### Le chevalier de Hollow Knight
 ![](https://files.saty.re/peluches/creations.jpg)
 
-**Le chevalier de Hollow Knight**
-
-
+### Ned, mascotte de Twenty One Pilots
 ![](https://files.saty.re/peluches/personnalisees/ned.jpg)
 
-**Ned, mascotte de Twenty One Pilots**
-
-
+### Minnie
 ![](https://files.saty.re/peluches/personnalisees/minnie.jpg)
 
-**Minnie**
-
-
+### Daft Punk
 ![](https://files.saty.re/peluches/personnalisees/daft.png)
 
-**Daft Punk**
-
-
+### Cactus de Final Fantasy
 ![](https://files.saty.re/peluches/personnalisees/cactus.png)
 
-**Cactus de Final Fantasy**
-
-
-![](https://files.saty.re/peluches/personnalisees/shrek.jpg)
-
-**Shrek** 
+### Shrek
+![](https://files.saty.re/peluches/personnalisees/shrek.jpg) 
