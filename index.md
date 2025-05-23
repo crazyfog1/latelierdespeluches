@@ -19,7 +19,7 @@ Découvrez ma collection de peluches : chiens, chats, lapins, nounours, abeilles
 ## Mes créations uniques
 Dans cette section, vous trouverez mes créations uniques de peluches. Chacune est faite à la main avec amour et soin. Faites plaisir à vos proches avec une peluche personnalisée qui leur ressemble. N'hésitez pas à me contacter pour élaborer ensemble la commande d'une création à votre image, je serais ravie de réaliser vos rêves !
 
-![](https://files.saty.re/peluches/creations.jpg
+![](https://files.saty.re/peluches/creations.jpg)
 
 <a href="https://crazyfog1.github.io/latelierdespeluches/commandes%20personnalisees.html" class="bouton">Découvrir</a>
 
