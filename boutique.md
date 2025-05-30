@@ -7,10 +7,10 @@ blog_index: true
 {% for post in site.posts %}
 <article class="blog-item">
   <h2>
-    {{ post.title }}
+    <a href="{{post.url | relative_url}}"> {{ post.title }} </a>
   </h2>
 
-  <a href="{{post.url | relative_url}}"> Voir l'article <span aria-hidden="true">➞</span></a>
+  <a href="{{post.url | relative_url}}"> Voir l'article ➞ </a>
 </article>
 <hr />
 {% endfor %} 
