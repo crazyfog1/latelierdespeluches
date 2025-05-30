@@ -1,6 +1,11 @@
 ---
 title: "Rinou, le renard plat"
 ---
++++
+[extra]
+  prix = '30'
++++
+
 **30€**
 
 ![](https://files.saty.re/peluches/boutique/01-rinou.png)
