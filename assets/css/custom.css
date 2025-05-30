@@ -5,3 +5,6 @@ p:has(> img) {
     display: flex;
     justify-content: center;
 }
+img:not(#accueil){
+max-width: 50%;
+}
