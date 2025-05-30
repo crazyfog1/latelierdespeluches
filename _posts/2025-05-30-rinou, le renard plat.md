@@ -1,15 +1,15 @@
 ---
 title: "Rinou, le renard plat"
 ---
-![](https://files.saty.re/peluches/boutique/01-rinou.png)
-
 **30€**
+
+![](https://files.saty.re/peluches/boutique/01-rinou.png)
 
 Petit renard avec le corps plat comme une couverture, pour un enfant ou un adulte qui aime les renards, parfait pour les tout petits ! 
 
 Il mesure environ 25 cm et adore les câlins !
 
- <a href="/contact.html" class="bouton">Commander par mail</a>
+ <a href="mailto:contact@latelierdespeluches.fr" class="bouton">Commander par mail</a>
 
 <br />
 
