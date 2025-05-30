@@ -1,10 +1,10 @@
 ---
 title: "Rinou, le renard plat"
 ---
-+++
+---
 [extra]
   prix = '30'
-+++
+---
 
 **30€**
 
