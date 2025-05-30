@@ -12,6 +12,7 @@ p:has(> img) {
 }
 
 @media screen and (min-width: 1000px) {
-img:not(#accueil){
+img:not(.accueil){
 max-width: 50%;
+min-width: 50%;
 }}
