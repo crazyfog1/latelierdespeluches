@@ -5,7 +5,7 @@ in_menu: true
 ---
 # L'atelier des peluches
 
-![](https://files.saty.re/peluches/toutes-les-peluches.jpg)
+<img id="accueil" src="https://files.saty.re/peluches/toutes-les-peluches.jpg">
 
 ![](https://files.saty.re/peluches/peluches-accueil%202.jpg)
 
