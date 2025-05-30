@@ -5,11 +5,9 @@ title: "Mistigris, le chat"
 
 ![](https://files.saty.re/peluches/boutique/06-mistigris.png)
 
-Parce que Noël c'est le père noël et qu'il est toujours accompagné de ses fidèles rennes pour tirer son traineau, voici Rodolphe, le renne de Noël !
+Mistrigris est un petit chat simple mais craquant. Sa petite arrondie saura vous combler. Il tient assis tout seul, parfait pour décorer ou pour vous suivre dans vos aventures !
 
-Emmenez le dans vos aventures et jouez avec lui !
-
-Il mesure environ 25 cm de hauteur.
+Il mesure 12 cm du bout de ses oreilles jusqu'à ses pattes.
 
  <a href="mailto:contact@latelierdespeluches.fr" class="bouton">Commander par mail</a>
 
