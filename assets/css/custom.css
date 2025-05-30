@@ -1,6 +1,11 @@
 :root {
     --couleur-primaire : #8F0094;
 }
+
+h1 {
+font-size: 2.8rem;
+}
+
 p:has(> img) {
     display: flex;
     justify-content: center;
